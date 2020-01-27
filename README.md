@@ -42,4 +42,4 @@ ON PC SENDER</br>
 
 ON PC RECEIVER</br>
 1. Start "NDI to Spout.exe" located in the bin folder of Spout-to-NDI</br>It should look automatically for available senders. If not choose it from File > Open</br>
-2. 1. Start VVVV receiver patch (with the node SPOUT receiver)
+2. Start VVVV receiver patch (with the node SPOUT receiver)
