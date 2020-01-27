@@ -29,3 +29,18 @@ https://spout.zeal.co/download/SpoutUserManual.pdf</br>
 <b>SPOUT to NDI Manual</b> </br>
 https://spout.zeal.co/download/SpoutToNDI_2005.pdf</br>
 
+
+<h2><b>Use in VVVV</b></h2></br>
+
+Install Spout and Spout-to-NDI, this last one you can put in any convenient folder.
+You must start a vvvv patch sender before opening/starting a vvvv patch receiver.
+The order of action is:
+
+ON PC SENDER</br>
+1. Start VVVV </br>sender patch (with the node SPOUT sender)
+2. Start "Spout to NDI.exe" located in the bin folder of Spout-to-NDI
+
+ON PC RECEIVER</br>
+3. Start "NDI to Spout.exe" located in the bin folder of Spout-to-NDI</br>
+It should look automatically for available senders. If not choose it from File > Open</br>
+4. 1. Start VVVV receiver patch (with the node SPOUT receiver)
