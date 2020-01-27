@@ -41,6 +41,5 @@ ON PC SENDER</br>
 2. Start "Spout to NDI.exe" located in the bin folder of Spout-to-NDI
 
 ON PC RECEIVER</br>
-3. Start "NDI to Spout.exe" located in the bin folder of Spout-to-NDI</br>
-It should look automatically for available senders. If not choose it from File > Open</br>
-4. 1. Start VVVV receiver patch (with the node SPOUT receiver)
+1. Start "NDI to Spout.exe" located in the bin folder of Spout-to-NDI</br>It should look automatically for available senders. If not choose it from File > Open</br>
+2. 1. Start VVVV receiver patch (with the node SPOUT receiver)
